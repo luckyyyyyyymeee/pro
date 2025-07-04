@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: skyblue;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: blue;
+  text-align: center;
+  padding: 15px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+h1 { background-color: rgb(83, 83, 245);
+  color: #4a235a; text-align: center;
+}
+
+img {  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+p { background-color: rgb(110, 110, 255);
+  color: #333;
+  line-height: 1.6; text-indent: 9ch;
+}
